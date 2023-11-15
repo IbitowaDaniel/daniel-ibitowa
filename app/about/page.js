@@ -58,7 +58,7 @@ const About = () => {
               <p className="font-medium my-4">
                 I&apos;m currently pursuing my Bachelor&apos;s degree in Computer Science. Eager to stay at the forefront of the industry, I constantly seek out new knowledge to improve myself.</p>
               <p className="font-medium">
-                I believe that continuous learning is key to success in this fast-paced industry. In a nutshell. I'm a web developer who combines technical expertise with a passion for design and a commitment to user satisfaction.</p>
+                I believe that continuous learning is key to success in this fast-paced industry. In a nutshell. I&apos;m a web developer who combines technical expertise with a passion for design and a commitment to user satisfaction.</p>
             </div>
 
             <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light dark:bg-dark dark:border-light xl:col-span-4 p-8 md:order-1 md:col-span-8">
