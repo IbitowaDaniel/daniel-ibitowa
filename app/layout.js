@@ -15,8 +15,6 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body className={`bg-light dark:bg-dark w-full min-h-screen`}>
-        <Script id='theme-switcher' strategy='beforeInteractive'>
-        </Script>
         <Navbar />
         {children}
         <Footer />
