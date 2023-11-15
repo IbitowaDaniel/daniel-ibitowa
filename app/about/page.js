@@ -54,7 +54,7 @@ const About = () => {
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">Biography</h2>
               <p className="font-medium">
-                Hi, I'm Daniel Ibitowa, a student and Front End Developer on a mission to create captivating digital experiences. With a deep understanding of various web technologies, I work on crafting websites that not only look great but also deliver a seamless user interface, interaction and experience</p>
+                Hi, I&apos;m Daniel Ibitowa, a student and Front End Developer on a mission to create captivating digital experiences. With a deep understanding of various web technologies, I work on crafting websites that not only look great but also deliver a seamless user interface, interaction and experience</p>
               <p className="font-medium my-4">
                 I'm currently pursuing my Bachelor's degree in Computer Science. Eager to stay at the forefront of the industry, I constantly seek out new knowledge to improve myself.</p>
               <p className="font-medium">
