@@ -77,7 +77,7 @@ const Navbar = () => {
             <TwitterIcon />
           </motion.a>
 
-          <motion.a href="https://github.com//DanielIbitowa" target={"_blank"}
+          <motion.a href="https://github.com//IbitowaDaniel" target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             className="w-6 mx-3">
@@ -131,35 +131,35 @@ const Navbar = () => {
             </nav>
 
             <nav className="flex items-center justify-center flex-wrap mt-2">
-              <motion.a href="https://grub.com" target={"_blank"}
+              <motion.a href="https://twitter.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mr-3 sm:mx-1">
                 <TwitterIcon />
               </motion.a>
 
-              <motion.a href="https://grub.com" target={"_blank"}
+              <motion.a href="https://github.com//IbitowaDaniel" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mx-3 sm:mx-1 bg-light rounded-full dark:bg-dark">
                 <GithubIcon />
               </motion.a>
 
-              <motion.a href="https://grub.com" target={"_blank"}
+              <motion.a href="https://Linkedin.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mx-3 sm:mx-1">
                 <LinkedInIcon />
               </motion.a>
 
-              <motion.a href="https://grub.com" target={"_blank"}
+              <motion.a href="https://Pinterest.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mx-3 sm:mx-1 bg-light rounded-full">
                 <PinterestIcon />
               </motion.a>
 
-              <motion.a href="https://grub.com" target={"_blank"}
+              <motion.a href="https://dribbble.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 ml-3 sm:mx-1">
