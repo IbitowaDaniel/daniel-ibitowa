@@ -145,14 +145,14 @@ const Navbar = () => {
                 <GithubIcon />
               </motion.a>
 
-              <motion.a href="https://Linkedin.com" target={"_blank"}
+              <motion.a href="https://linkedin.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mx-3 sm:mx-1">
                 <LinkedInIcon />
               </motion.a>
 
-              <motion.a href="https://Pinterest.com" target={"_blank"}
+              <motion.a href="https://pinterest.com" target={"_blank"}
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.9 }}
                 className="w-6 mx-3 sm:mx-1 bg-light rounded-full">
