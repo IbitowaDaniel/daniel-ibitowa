@@ -49,7 +49,7 @@ const Project = ({ title, type, img, link, github }) => {
   return (
     <article className="w-full flex flex-col items-center justify-center rounded-2xl border border-solid border-dark bg-light dark:bg-dark dark:border-light p-6 relative xs:p-4">
       <div className="absolute top-0 -right-3 -z-10 w-[101%] h-[103%] rounded-[2rem] bg-dark dark:bg-light rounded-br-3xl md:-right-2 md:w-[101%] xs:h-[102%] xs:rounded-[1.5rem]" />
-      <Link href={link} target="_blank" className="w cursor-pointer overflow-hidden rounded-lg">
+      <Link href={link} target="_blank" className="w-full cursor-pointer overflow-hidden rounded-lg">
         <FramerImage
           src={img}
           alt={title}
