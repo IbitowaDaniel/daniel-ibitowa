@@ -137,8 +137,8 @@ const Projects = () => {
 
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="NextJs Portfolio"
-                type="Portfolio Website Template"
+                title="NextJs Portfolio Template"
+                type="Portfolio Website"
                 img={PortfolioImage}
                 link="/"
                 github="/"
