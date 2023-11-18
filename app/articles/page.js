@@ -44,7 +44,7 @@ const Article = ({ title, date, link }) => {
       className="relative w-full p-4 py-6 my-4 rounded-xl flex items-center justify-between bg-light text-dark dark:bg-dark dark:text-light first:mt-0 border border-solid border-dark dark:border-light border-r-4 border-b-4 sm:flex-col"
     >
       <Link href={link} target="_blank">
-        <h2 className="capitalize text-xl xs:text-lg font-semibold hover:underline">{title}</h2>
+        <h2 className="capitalize text-xl xs:text-base md:text-lg font-semibold hover:underline">{title}</h2>
       </Link>
       <span className="flex-shrink-0 text-primary dark:text-primaryDark font-semibold pl-4 sm:self-start sm:pl-0 xs:text-sm">{date}</span>
     </motion.li>
