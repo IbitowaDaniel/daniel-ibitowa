@@ -140,7 +140,7 @@ const Projects = () => {
                 title="NextJs Portfolio"
                 type="Portfolio Website"
                 img={PortfolioImage}
-                link="/"
+                link="https://daniel-ibitowa.vercel.app"
                 github="/"
               />
             </div>
