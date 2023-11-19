@@ -99,7 +99,7 @@ const Projects = () => {
                 summary="Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about."
                 img={Project1}
                 link="/"
-                github="/"
+                github="https://github.com/IbitowaDaniel"
                 type="Featured Project"
               />
             </div>
