@@ -110,7 +110,7 @@ const Projects = () => {
                 type="Website Template"
                 img={Project2}
                 link="/"
-                github="/"
+                github="https://github.com/IbitowaDaniel"
               />
             </div>
 
