@@ -96,7 +96,7 @@ const Projects = () => {
             <div className="col-span-12">
               <FeaturedProject
                 title="Project Display TitleName"
-                summary="Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about."
+                summary="Short description of what the project is all about savage. Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about."
                 img={Project1}
                 link="/"
                 github="https://github.com/IbitowaDaniel"
