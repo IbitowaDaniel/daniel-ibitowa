@@ -151,7 +151,7 @@ const Projects = () => {
                 type="Blog Website"
                 img={StarTicles}
                 link="https://blog-website-starticles.vercel.app"
-                github="/"
+                github="https://github.com/IbitowaDaniel/Blog-website-starticles"
               />
             </div>
           </div>
