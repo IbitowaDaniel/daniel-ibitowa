@@ -120,7 +120,7 @@ const Projects = () => {
                 type="Website"
                 img={Project3}
                 link="/"
-                github="/"
+                github="https://github.com/IbitowaDaniel"
               />
             </div>
 
