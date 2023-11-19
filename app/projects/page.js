@@ -150,7 +150,7 @@ const Projects = () => {
                 title="StarTicles Website"
                 type="Blog Website"
                 img={StarTicles}
-                link="/"
+                link="https://blog-website-starticles.vercel.app"
                 github="/"
               />
             </div>
