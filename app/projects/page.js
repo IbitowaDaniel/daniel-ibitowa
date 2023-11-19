@@ -141,7 +141,7 @@ const Projects = () => {
                 type="Portfolio Website"
                 img={PortfolioImage}
                 link="https://daniel-ibitowa.vercel.app"
-                github="/"
+                github="https://github.com/IbitowaDaniel/daniel-ibitowa"
               />
             </div>
 
