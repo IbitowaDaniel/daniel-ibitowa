@@ -7,7 +7,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { GithubIcon } from "@/components/icons"
 import { motion } from "framer-motion"
-import { Project1, Project2, Project3, Project4, PortfolioImage, StarTicles, } from "@/assets"
+import { TodoApp, Agency1, AppLanding, Agency2, PortfolioImage, StarTicles, } from "@/assets"
 import TransitionEffect from "@/components/TransitionEffect"
 
 
@@ -95,43 +95,43 @@ const Projects = () => {
 
             <div className="col-span-12">
               <FeaturedProject
-                title="Project Display TitleName"
-                summary="Short description of what the project is all about savage. Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about."
-                img={Project1}
-                link="/"
-                github="https://github.com/IbitowaDaniel"
+                title="Typescript To do Application"
+                summary="A To Do web application with nice User Interface built with Nextjs,Typescript and Framer motion. Users can add and delete things that they want to do. Users can also edit the things added to the to do list"
+                img={TodoApp}
+                link="/https://typescript-to-do-app-ten.vercel.app/"
+                github="https://github.com/IbitowaDaniel/Typescript-To-Do-App"
                 type="Featured Project"
               />
             </div>
 
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Project Display Title"
-                type="Website Template"
-                img={Project2}
-                link="/"
-                github="https://github.com/IbitowaDaniel"
+                title="Hire Developer Agency"
+                type="Landing Page"
+                img={Agency1}
+                link="https://hire-developer-agency-landing-page.vercel.app/"
+                github="https://github.com/IbitowaDaniel/hire-developer-agency-landing-page"
               />
             </div>
 
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Project Display Title"
-                type="Website"
-                img={Project3}
-                link="/"
-                github="https://github.com/IbitowaDaniel"
+                title="Modern Application Page"
+                type="App Modern"
+                img={AppLanding}
+                link="https://modern-app-landing-page.vercel.app/"
+                github="https://github.com/IbitowaDaniel/modern-app-landing-page"
               />
             </div>
 
             <div className="col-span-12">
               <FeaturedProject
-                title="Project Display Title"
-                summary="Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about. Short description of what the project is all about."
-                img={Project4}
+                title="Agency Saas Page"
+                summary="A fully responsive website saas application landing page, with an animated pricing section, a team section and a subscribe to our services section. Every content on the page is editable via the constants folder."
+                img={Agency2}
                 link="/"
-                github="https://github.com/IbitowaDaniel"
-                type="Project Website"
+                github="https://github.com/IbitowaDaniel/startup-agency-page"
+                type="https://startup-agency-page.vercel.app/"
               />
             </div>
 
