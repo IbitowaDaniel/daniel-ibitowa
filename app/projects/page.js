@@ -96,9 +96,9 @@ const Projects = () => {
             <div className="col-span-12">
               <FeaturedProject
                 title="Typescript To do Application"
-                summary="A To Do web application with nice User Interface built with Nextjs,Typescript and Framer motion. Users can add and delete things that they want to do. Users can also edit the things added to the to do list"
+                summary="A To Do web application with nice User Interface built with Nextjs,Typescript and Framer motion. Users can add and delete things that they want to do. Also, users can edit the things added to the to do list"
                 img={TodoApp}
-                link="/https://typescript-to-do-app-ten.vercel.app/"
+                link="https://typescript-to-do-app-ten.vercel.app/"
                 github="https://github.com/IbitowaDaniel/Typescript-To-Do-App"
                 type="Featured Project"
               />
@@ -116,7 +116,7 @@ const Projects = () => {
 
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Modern Application Page"
+                title="Modern App Page"
                 type="App Modern"
                 img={AppLanding}
                 link="https://modern-app-landing-page.vercel.app/"
@@ -127,11 +127,11 @@ const Projects = () => {
             <div className="col-span-12">
               <FeaturedProject
                 title="Agency Saas Page"
-                summary="A fully responsive website saas application landing page, with an animated pricing section, a team section and a subscribe to our services section. Every content on the page is editable via the constants folder."
+                summary="A fully responsive website Saas application landing page, with an animated pricing section, a team section and a subscribe to our services section. Every content on the page is editable via the constants folder."
                 img={Agency2}
-                link="/"
+                link="https://startup-agency-page.vercel.app/"
                 github="https://github.com/IbitowaDaniel/startup-agency-page"
-                type="https://startup-agency-page.vercel.app/"
+                type="Landing Page"
               />
             </div>
 
